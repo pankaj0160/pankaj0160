@@ -29,31 +29,43 @@
 
 ## 🧠 About Me
 
-```python
-developer = {
-    "name": "Pankaj Thakur",
-    "location": "Gwalior, Madhya Pradesh, India 🇮🇳",
-    "focus": [
-        "Generative AI",
-        "RAG Systems",
-        "Full Stack Engineering"
-    ],
-    "building": [
-        "AI Products",
-        "Scalable Backends",
-        "Open Source Tools"
-    ],
-    "learning": [
-        "Agentic AI",
-        "Advanced LangChain",
-        "System Design"
-    ],
-    "reach_me": "pankajthakur.dev01@gmail.com"
-}
-```
+<div align="center">
 
-I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting intelligent, scalable applications. I work at the intersection of **AI/LLM ecosystems** and **production-grade web engineering** — building real products with LangChain, RAG pipelines, FastAPI, and the MERN stack. Currently seeking **internship opportunities** where I can contribute, grow, and ship impactful software.
+<table>
+<tr>
+<td width="60%">
 
+### 👋 Hi, I'm Pankaj Thakur
+
+🎓 **B.Tech student in Artificial Intelligence & Data Science**
+
+I’m passionate about building **AI-powered applications**, solving **DSA problems**, and creating **real-world full stack products** that are practical and scalable.
+
+My current focus is exploring the intersection of:
+
+- 🤖 **Generative AI & RAG Systems**
+- 🌐 **Full Stack Development**
+- ⚙️ **Backend Engineering**
+- 🧠 **Data Structures & Algorithms**
+- 🏗️ **System Design**
+
+I enjoy turning ideas into working products, learning modern technologies deeply, and continuously improving through hands-on building.
+
+Currently, I’m working toward becoming a strong **AI + Software Engineer** capable of building production-ready applications.
+
+📫 **Reach me:** `pankajthakur.dev01@gmail.com`
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🛠️ Tech Stack
@@ -111,35 +123,18 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj0160&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pankaj0160&theme=tokyonight&hide_border=true" />
+</p>
 
-</td>
-
-<td align="center">
-
-<img src="https://streak-stats.demolab.com?user=pankaj0160&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak" width="400"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="400"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 ---
 
 ## 📈 Contribution Activity
