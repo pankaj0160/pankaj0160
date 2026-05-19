@@ -1,213 +1,338 @@
 <div align="center">
 
-<!-- PREMIUM HERO HEADER -->
-<img src="https://capsule-render.vercel.app/canvas?type=waving&color=0d1117&height=250&section=header&text=Pankaj%20Thakur&fontSize=45&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=62&sidePadding=30" width="100%" alt="Pankaj Thakur Header" />
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=220&section=header&text=Pankaj%20Thakur&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Builder%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=a0a0b8&animation=fadeIn" />
 
-<!-- ANIMATED TYPING INTRO -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Full+Stack+Products;Architecting+GenAI+%26+RAG+Solutions;Engineering+End-to-End+AI+Applications" alt="Typing SVG" /></a>
+</div>
 
-<br/>
+<div align="center">
+
+<!-- TYPING SVG -->
+<a href="https://github.com/pankaj0160">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+Products+%26+RAG+Applications+%F0%9F%A4%96;Full+Stack+Engineer+with+MERN+%2B+FastAPI+%F0%9F%9A%80;LangChain+%7C+Vector+DBs+%7C+LLMs+%7C+Prompt+Engineering;Open+Source+%7C+Internship+Ready+%7C+Let%27s+Collaborate!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <!-- PROFILE BADGES -->
-[![Profile Views](https://komarev.com/normal-badge/?username=pankaj0160&color=2188ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/pankaj0160)
-[![Followers](https://img.shields.io/github/followers/pankaj0160?label=FOLLOWERS&style=flat-square&color=28a745)](https://github.com/pankaj0160?tab=followers)
-![Status](https://img.shields.io/badge/OPENTOWORK-INTERNSHIPS_%26_COLLABORATIONS-ffc107?style=flat-square)
-![Location](https://img.shields.io/badge/LOCATION-GWALIOR%2C%20MP%2C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3-0366d6?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=pankaj0160&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pankaj0160?style=for-the-badge&color=238636&labelColor=1a1a2e&label=FOLLOWERS&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/COLLAB-Open%20to%20Collaborate-58A6FF?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧠 About Me
 
-An engineering-driven **Full Stack Developer** and **GenAI Builder** passionate about bridging the gap between robust backend systems and intelligent AI solutions. I specialize in designing and deploying end-to-end full stack architecture, building production-grade Retrieval-Augmented Generation (RAG) applications, and developing context-aware AI agents. 
+```python
+developer = {
+    "name"       : "Pankaj Thakur",
+    "location"   : "Gwalior, Madhya Pradesh, India 🇮🇳",
+    "focus"      : ["Generative AI", "RAG Systems", "Full Stack Engineering"],
+    "building"   : ["AI Products", "Scalable Backends", "Open Source Tools"],
+    "learning"   : ["Agentic AI", "Advanced LangChain", "System Design"],
+    "reach_me"   : "pankajthakur.dev01@gmail.com",
+    "fun_fact"   : "I turn PDFs into conversations and ideas into shipped products."
+}
+```
 
-*   🚀 Focused on building production-ready AI products and highly scalable architectures.
-*   🧠 Deeply interested in RAG engineering, Vector Databases, and Agentic AI ecosystems.
-*   🛠️ Skilled in building performant full stack microservices using the MERN stack and FastAPI.
-*   📊 Solid foundational skills in Data Analytics, Data Visualization, and technical problem-solving.
+I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting intelligent, scalable applications. I work at the intersection of **AI/LLM ecosystems** and **production-grade web engineering** — building real products with LangChain, RAG pipelines, FastAPI, and the MERN stack. Currently seeking **internship opportunities** where I can contribute, grow, and ship impactful software.
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Tech Stack
 
-<table width="100%">
+### 🤖 AI / GenAI
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6B35?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-5C4EE5?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-0078D4?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge&logo=robot&logoColor=black" />
+</p>
+
+### 🌐 Full Stack
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 📊 Data / Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF7043?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
   <tr>
-    <td width="20%"><strong>🤖 AI / GenAI</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-      <img src="https://img.shields.io/badge/RAG-1f425f?style=for-the-badge" alt="RAG" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge" alt="Prompt Engineering" />
-      <img src="https://img.shields.io/badge/Vector_Databases-008080?style=for-the-badge" alt="Vector DBs" />
-      <img src="https://img.shields.io/badge/OpenAI_Ecosystem-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&count_private=true" width="420" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj0160&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" width="420" />
     </td>
   </tr>
   <tr>
-    <td width="20%"><strong>🌐 Full Stack</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge" alt="MERN" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge" alt="REST" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=10" width="420" />
     </td>
   </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankaj0160&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1a2f4e&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pankaj0160&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧠 DocMind AI — RAG Document Intelligence Assistant
+
+<table>
   <tr>
-    <td width="20%"><strong>💻 Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <td width="70%">
+      <p>AI-powered document intelligence assistant where users upload PDFs and interact through contextual AI conversations using Retrieval-Augmented Generation. Built with a production-grade RAG pipeline integrating vector databases and LLMs for accurate, source-grounded responses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-5C4EE5?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector%20DB-0078D4?style=flat-square&logo=pinecone&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankaj0160/docmind-ai-rag">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>📊 Data / Analytics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Data_Visualization-FF6F61?style=for-the-badge" alt="Data Vis" />
-    </td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🛠️ Tools & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-ai-artificial-intelligence-flaticons-flat-flat-icons-3.png" width="90" />
+      <br/><b>GenAI · RAG · LLM</b>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛠️ DocMind AI — RAG Document Intelligence Assistant
-> **Tech Stack:** Python, FastAPI, LangChain, RAG, Vector Databases, LLMs
-*   Engineered an enterprise-grade AI-powered document intelligence solution leveraging advanced Retrieval-Augmented Generation.
-*   Allows users to securely upload complex multi-page PDF documents and run highly context-aware semantic searches.
-*   Maintains seamless stateful conversations powered by Large Language Models and vectorized knowledge bases.
-*   📂 [Source Code Repository](https://github.com/pankaj0160/docmind-ai-rag)
-
 ### 🅿️ SmartPark — Smart Parking Management Platform
-> **Tech Stack:** React, Node.js, Express, MongoDB, REST APIs
-*   Developed a real-time parking ecosystem designed to digitalize parking lot discovery and asset tracking workflows.
-*   Implemented precise parking slot status tracking, booking mechanics, user dashboards, and secure authentication flows.
-*   Optimized database schemas in MongoDB to manage rapid transactional state updates seamlessly.
-*   📂 [Source Code Repository](https://github.com/pankaj0160/SmartPark) | 🌐 [Live Application Demo](https://smart-park-client.vercel.app)
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>Real-world parking management platform featuring real-time slot tracking, booking workflows, authentication, admin dashboards, and scalable MERN architecture. Deployed live with a full client-side application on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankaj0160/SmartPark">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://smart-park-client.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/fluency/128/parking.png" width="90" />
+      <br/><b>MERN · Full Stack</b>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🌿 GreenNest — Sustainable E-Commerce Marketplace
-> **Tech Stack:** React, Node.js, Express, MongoDB
-*   Built a highly operational marketplace designed specifically for eco-friendly product commercialization.
-*   Designed dedicated interfaces for product discovery, comprehensive authentication modules, and isolated vendor onboarding workflows.
-*   Integrated unified administration management dashboards to track comprehensive platform statistics.
-*   📂 [Source Code Repository](https://github.com/pankaj0160/GreenNest)
 
----
+<table>
+  <tr>
+    <td width="70%">
+      <p>Eco-commerce marketplace platform with product browsing, authentication, vendor workflows, admin dashboards, and marketplace architecture — built with the MERN stack and focused on clean, scalable design patterns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankaj0160/GreenNest">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/fluency/128/leaf.png" width="90" />
+      <br/><b>MERN · E-Commerce</b>
+    </td>
+  </tr>
+</table>
 
-## 📊 Performance Statistics & Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj0160&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideLabels=c9d1d9" alt="GitHub Streak" height="180px"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankaj0160&theme=github-dark-custom&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" height="165px"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankaj0160&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🧠 Competitive Programming & Analytics Profiles
+## 🧩 LeetCode Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <th>💡 LeetCode Status</th>
-      <th>📊 Kaggle Analytics</th>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://leetcode.com/u/pankaj_devx/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" /><br/><br/>
-          <img src="https://leetcode-stats-api.herokuapp.com/pankaj_devx" alt="LeetCode Stats" width="85%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.kaggle.com/pankaj160605thakur">
-          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" /><br/><br/>
-          <img src="https://komarev.com/normal-badge/?username=pankaj160605thakur&color=20BEFF&style=flat-square&label=KAGGLE+PROFILE" alt="Kaggle Static" />
-          <p>Active exploration in data cleaning, engineering, exploratory analysis, and building pipelines.</p>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://leetcode.com/u/pankaj_devx/">
+  <img src="https://img.shields.io/badge/LeetCode-pankaj__devx-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/pankaj_devx/">
+  <img src="https://leetcard.jacoblin.cool/pankaj_devx?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=10" width="500" />
+</a>
+
 </div>
 
 ---
 
-## 🐍 Open Source Contribution Activity
+## 📦 Kaggle
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pankaj0160/pankaj0160/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Grid Animation" width="100%" />
+
+<a href="https://www.kaggle.com/pankaj160605thakur">
+  <img src="https://img.shields.io/badge/Kaggle-pankaj160605thakur-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-## 🤝 Connect & Network
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pankaj0160/pankaj0160/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Channel | Digital Coordinates |
-| :--- | :--- |
-| **💼 Professional Network** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-thakur-b3b749288/) |
-| **📧 Direct Inbox** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajthakur.dev01@gmail.com) |
-| **🐦 Microblogging** | [![Twitter](https://img.shields.io/badge/Twitter_/_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PANKAJ1450204) |
-| **🌐 Code Matrix** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pankaj0160) |
-| **🎨 Live Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app) |
+<a href="https://www.linkedin.com/in/pankaj-thakur-b3b749288/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:pankajthakur.dev01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pankajthakur.dev01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/PANKAJ1450204">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-@PANKAJ1450204-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/pankaj0160">
+  <img src="https://img.shields.io/badge/GitHub-pankaj0160-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/pankaj_devx/">
+  <img src="https://img.shields.io/badge/LeetCode-pankaj__devx-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/pankaj160605thakur">
+  <img src="https://img.shields.io/badge/Kaggle-pankaj160605thakur-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://your-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
+
+---
+
+## 💻 Coding Vibe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="developer coding gif" />
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="700" />
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,70:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0b2N0M3B0czh5YzA0ZnV6ODZ0M3FtbHltOHRkcWNuNmN0Nzh1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5Maddmx/giphy.gif" width="450px" alt="Professional Developer Animation" />
-</div>
+<sub>
+  <b>Pankaj Thakur</b> · Full Stack Developer & GenAI Builder · Gwalior, India 🇮🇳
+  <br/>
+  <i>Building intelligent software, one commit at a time.</i>
+</sub>
 
-<br/>
+<br/><br/>
 
-> ⚡ **Dev Quote:** *"The best way to predict the future is to hardcode it into an AI Agent, watch it adapt, and iterate structural parameters concurrently."*
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-0d1117?style=flat-square&labelColor=1a1a2e&color=58A6FF" />
 
----
-
-<div align="center">
-  <p>Designed with 💙 by <strong>Pankaj Thakur</strong> © 2026. Open to professional developer positions and active collaborations.</p>
-  <img src="https://capsule-render.vercel.app/canvas?type=waving&color=0d1117&height=80&section=footer&sidePadding=30" width="100%" alt="Footer Banner" />
 </div>
