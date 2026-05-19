@@ -37,7 +37,6 @@ developer = {
     "building"   : ["AI Products", "Scalable Backends", "Open Source Tools"],
     "learning"   : ["Agentic AI", "Advanced LangChain", "System Design"],
     "reach_me"   : "pankajthakur.dev01@gmail.com",
-    "fun_fact"   : "I turn PDFs into conversations and ideas into shipped products."
 }
 ```
 
@@ -102,21 +101,25 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&count_private=true" width="420" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj0160&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" width="420" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=10" width="420" />
-    </td>
-  </tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=pankaj0160&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pankaj0160&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true" alt="Contribution Graph"/>
 
 </div>
 
