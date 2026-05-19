@@ -130,13 +130,6 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankaj0160&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -161,7 +154,7 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
       </a>
     </td>
     <td width="30%" align="center">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/128/external-ai-artificial-intelligence-flaticons-flat-flat-icons-3.png" width="90" />
+      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90" alt="AI Icon"/>
       <br/><b>GenAI · RAG · LLM</b>
     </td>
   </tr>
