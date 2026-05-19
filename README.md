@@ -105,15 +105,16 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=pankaj0160&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true" 
-        width="420" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj0160&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true"
+        width="420"
         alt="GitHub Stats"
       />
     </td>
+
     <td align="center">
       <img 
-        src="https://streak-stats.demolab.com?user=pankaj0160&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" 
-        width="420" 
+        src="https://streak-stats.demolab.com?user=pankaj0160&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"
+        width="420"
         alt="GitHub Streak"
       />
     </td>
@@ -123,8 +124,8 @@ I'm a **Full Stack Developer** and **GenAI Builder** passionate about crafting i
     <td colspan="2" align="center">
       <br/>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" 
-        width="420" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj0160&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+        width="420"
         alt="Top Languages"
       />
     </td>
