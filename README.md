@@ -19,8 +19,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/pankaj0160?style=for-the-badge&color=238636&labelColor=1a1a2e&label=FOLLOWERS&logo=github" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-&nbsp;
 <img src="https://img.shields.io/badge/COLLAB-Open%20to%20Collaborate-58A6FF?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
@@ -114,7 +112,6 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -302,7 +299,7 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
   <img src="https://img.shields.io/badge/Kaggle-pankaj160605thakur-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.vercel.app">
+<a href="https://pankaj-portfolio-blue.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
