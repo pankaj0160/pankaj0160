@@ -300,7 +300,7 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
 </a>
 &nbsp;
 <a href="https://pankaj-portfolio-blue.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
