@@ -172,16 +172,66 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
   </tr>
 </table>
 
-**What it does**
+---
 
-| Step | Module | Description |
-|------|--------|-------------|
-| 🎧 Ingest | `core/transcription/` | Accepts audio, video, or YouTube URL; extracts & cleans audio via FFmpeg |
-| 📝 Transcribe | Whisper AI | Converts audio to accurate, timestamped text |
-| 🧠 Analyze | LangGraph + Groq LLM | Generates summaries, action items, topics, and decisions |
-| 🔍 Search | ChromaDB RAG | Enables semantic Q&A over meeting transcripts |
-| 🗄️ Store | SQLite / PostgreSQL | Persists runs, transcripts, and embeddings |
-| 🖥️ Present | React / Streamlit | Beautiful dashboard with real-time updates |
+### 🔬 ResearchOS — AI Research Operating System
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>A production-grade, full-stack AI research platform consolidating four intelligence workflows into a single authenticated workspace: topic research via a 4-agent pipeline (Search → Read → Write → Review) with live SSE streaming, PDF RAG chat with ChromaDB, AI news intelligence, and a live dashboard agent — all backed by JWT auth and 21 API routes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_LLaMA_70B-FF6B35?style=flat-square&logo=lightning&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-0078D4?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-5C4EE5?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankaj0160/AI-meeting-Assistant">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90" alt="ResearchOS Icon"/>
+      <br/><b>GenAI · RAG · Multi-Agent</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🅿️ SmartPark — Smart Parking Management Platform
+
+<table>
+  <tr>
+    <td width="70%">
+      <p>Real-world parking management platform built for India — featuring geo-spatial search, AI-powered slot ranking, concurrency-safe ACID bookings, Razorpay payments with HMAC webhook verification, real-time Socket.io updates, and a Claude Haiku AI assistant with live function calling. Deployed live with a full MERN stack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+      </p>
+      <a href="https://github.com/pankaj0160/SmartPark">
+        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://smart-park-client.vercel.app">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.icons8.com/fluency/128/parking.png" width="90" alt="SmartPark Icon"/>
+      <br/><b>MERN · Real-Time · AI</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
