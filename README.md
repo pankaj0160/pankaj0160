@@ -141,91 +141,47 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
 </div>
 
 ---
-
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🧠 DocMind AI — RAG Document Intelligence Assistant
+### 🎙️ SUMMLY — AI-Powered Meeting Intelligence Platform
 
 <table>
   <tr>
     <td width="70%">
-      <p>AI-powered document intelligence assistant where users upload PDFs and interact through contextual AI conversations using Retrieval-Augmented Generation. Built with a production-grade RAG pipeline integrating vector databases and LLMs for accurate, source-grounded responses.</p>
+      <p>An AI-powered meeting intelligence platform that accepts audio/video recordings or YouTube videos, transcribes them using Whisper AI, and analyzes transcripts for insights — surfacing key decisions, action items, and summaries via a beautiful user-friendly UI. Built with a production-grade pipeline integrating LangGraph agents, ChromaDB for semantic search, and RAG-based Q&A.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-5C4EE5?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vector%20DB-0078D4?style=flat-square&logo=pinecone&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLMs-FF6B35?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <a href="https://github.com/pankaj0160/docmind-ai-rag">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90" alt="AI Icon"/>
-      <br/><b>GenAI · RAG · LLM</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🅿️ SmartPark — Smart Parking Management Platform
-
-<table>
-  <tr>
-    <td width="70%">
-      <p>Real-world parking management platform featuring real-time slot tracking, booking workflows, authentication, admin dashboards, and scalable MERN architecture. Deployed live with a full client-side application on Vercel.</p>
-      <p>
+        <img src="https://img.shields.io/badge/Whisper_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-0078D4?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_LLM-FF6B35?style=flat-square&logo=lightning&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
-      <a href="https://github.com/pankaj0160/SmartPark">
-        <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://smart-park-client.vercel.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://img.icons8.com/fluency/128/parking.png" width="90" />
-      <br/><b>MERN · Full Stack</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌿 GreenNest — Sustainable E-Commerce Marketplace
-
-<table>
-  <tr>
-    <td width="70%">
-      <p>Eco-commerce marketplace platform with product browsing, authentication, vendor workflows, admin dashboards, and marketplace architecture — built with the MERN stack and focused on clean, scalable design patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://github.com/pankaj0160/GreenNest">
+      <a href="https://github.com/pankaj0160/AI-meeting-Assistant">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="30%" align="center">
-      <img src="https://img.icons8.com/fluency/128/leaf.png" width="90" />
-      <br/><b>MERN · E-Commerce</b>
+      <img src="https://img.icons8.com/color/96/microphone.png" width="90" alt="Meeting AI Icon"/>
+      <br/><b>Whisper · LangGraph · RAG</b>
     </td>
   </tr>
 </table>
+
+**What it does**
+
+| Step | Module | Description |
+|------|--------|-------------|
+| 🎧 Ingest | `core/transcription/` | Accepts audio, video, or YouTube URL; extracts & cleans audio via FFmpeg |
+| 📝 Transcribe | Whisper AI | Converts audio to accurate, timestamped text |
+| 🧠 Analyze | LangGraph + Groq LLM | Generates summaries, action items, topics, and decisions |
+| 🔍 Search | ChromaDB RAG | Enables semantic Q&A over meeting transcripts |
+| 🗄️ Store | SQLite / PostgreSQL | Persists runs, transcripts, and embeddings |
+| 🖥️ Present | React / Streamlit | Beautiful dashboard with real-time updates |
 
 </div>
 
