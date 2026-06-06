@@ -193,6 +193,10 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
       <a href="https://github.com/pankaj0160/ResearchOS">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      &nbsp;
+      <a href="https://research-os-kappa.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
     </td>
     <td width="30%" align="center">
       <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90" alt="ResearchOS Icon"/>
