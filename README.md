@@ -190,7 +190,7 @@ Currently, I’m working toward becoming a strong **AI + Software Engineer** cap
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <a href="https://github.com/pankaj0160/AI-meeting-Assistant">
+      <a href="https://github.com/pankaj0160/ResearchOS">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
